@@ -10,4 +10,4 @@ A multi used Telefram bot with google cloud and firebase.
 - must put your URL and API key in test.js
 
 # Getting the URL
-Getting the URL must be the combination of the URL you take when run NGROK + the link after your http://localhost:PORT/
+Getting the URL must be the combination of the URL you take when run NGROK "Forwarding" + the link after your http://localhost:PORT/
