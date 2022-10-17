@@ -1,5 +1,5 @@
 # TelegramBot-nodeJS
-A multi used Telefram bot with google cloud and firebase.
+A multi used Telegram bot with google cloud and firebase.
 
 # How to use
 - clone the repo.
